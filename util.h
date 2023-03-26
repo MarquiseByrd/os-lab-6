@@ -1,3 +1,4 @@
+//Marquise Byrd @02939181
 #ifndef UTIL_H
 #define UTIL_H
 
@@ -9,4 +10,4 @@
 
 ProcessType *parse_file(FILE *, int *);
 
-#endif				// UTIL_H
+#endif // UTIL_H
