@@ -1,3 +1,4 @@
+//Marquise Byrd @02939181
 #ifndef PROCESS_H
 #define PROCESS_H
 
@@ -12,4 +13,4 @@ typedef struct Process {
 
 typedef int (*Comparer) (const void *a, const void *b);
 
-#endif				// PROCESS_H
+#endif // PROCESS_H
